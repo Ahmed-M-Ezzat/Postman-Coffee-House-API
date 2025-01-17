@@ -14,7 +14,7 @@
 <h3><ins> Test Result </h3>
   
 ![image](https://github.com/Ahmed-M-Ezzat/Postman-API-Project/blob/e220aa0aeaaa55be4a6f79ec3b210914bb27e40c/assets/img1.jpg)
-![image](https://github.com/lynix28/api-postman-example/assets/102797648/d09250b3-0089-46a6-a0b4-a5a2701a10fe)
+![image](https://github.com/Ahmed-M-Ezzat/Postman-API-Project/blob/610bb3562c07fc7c012af5a9edceccb0f3102717/assets/img2.jpg)
 
 <h3><ins> To run the test with Postman </h3>
 
