@@ -12,7 +12,7 @@
 			"name": "status",
 			"item": [
 				{
-					"name": "Get API status (map1)",
+					"name": "Get API status",
 					"event": [
 						{
 							"listen": "prerequest",
